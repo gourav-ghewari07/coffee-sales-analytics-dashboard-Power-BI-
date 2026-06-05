@@ -155,7 +155,7 @@ Through this project, I gained practical experience in:
 
 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
+
 
 ---
 
