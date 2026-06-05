@@ -123,17 +123,22 @@ Use seasonal sales trends to plan future promotional campaigns.
 📂 Repository Structure
 
 coffee-sales-analytics-dashboard/
+
 │
 ├── dashboard/
+
 │   └── Coffee_Sales_Dashboard.pbix
 │
 ├── dataset/
+
 │   └── coffee_sales.csv
 │
 ├── screenshots/
+
 │   ├── dashboard-overview.png
 │
 ├── README.md
+
 │
 └── insights.md
 
