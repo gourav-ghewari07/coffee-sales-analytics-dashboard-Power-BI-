@@ -124,9 +124,7 @@ Use seasonal sales trends to plan future promotional campaigns.
 
 coffee-sales-analytics-dashboard/
 
-│
-
-├── dashboard/
+│├── dashboard/
 
 │   └── Coffee_Sales_Dashboard.pbix
 
